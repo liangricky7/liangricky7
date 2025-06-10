@@ -1,16 +1,16 @@
-<h3> Hi I'm Ricky! 👋 </h3>
+# Hi I'm Ricky! 👋
 
-<p style="float: right; padding-left: 1vw;">
-  <img src="https://media1.tenor.com/m/Gc1zJt2o4GsAAAAd/rat-aardman.gif" width="200" height="200" alt="rat humbly eating cheese gif" />
-</p>
-<p>
-I'm a third year* Computer Science and Electrical Engineering Student at LSU! I'm a current Software Developer looking to pivot into working with <b> Embedded Systems! </b>
 
-I'm experienced working with **Full Stack Development** in C# and MERN stacks in both internship and club roles as well as in personal and school projects!
+<img align="right" width="200" height="200" src="https://media1.tenor.com/m/Gc1zJt2o4GsAAAAd/rat-aardman.gif"  alt="rat humbly eating cheese gif"/>
+<img align="right" width="5" height="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/16x9_Transparent.png"  alt="placeholder" />
+
+I'm a third year* Computer Science and Electrical Engineering Student at LSU! I'm a current Software Developer looking to pivot into working with **Embedded Systems!**  
+
+
+I'm experienced working with **Full Stack Development** in C# and MERN stacks in both internship and club roles as well as in personal and school projects!  
+
 
 <small>*i've completed the computer science major, but i'm just getting started with electrical!</small>
-</p>
-
 
 <h3>What I'm Working On </h3>
 <hr>
